@@ -1,129 +1,196 @@
-# 🎬 Basahjeruk - Tonton Melayu Drama Malay Kepala Bergetar
+# 🎬 Basahjeruk – Tonton Melayu Drama Malay Kepala Bergetar
 
-<p align="center">
-  <a href="https://basahjeruk3k.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-Website-orange?style=for-the-badge&logo=google-chrome" alt="Website">
-  </a>
 
-  <a href="https://github.com/basahjeruk3k" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-</p>
+# 🌐 Official Website
 
----
+🔗 **https://basahjeruk3k.com/**
 
-# 🌐 Website
+### 📝 Title
+**Basahjeruk - Tonton Melayu Drama Malay Kepala Bergetar**
 
-**Webname:** Basahjeruk3K
-
-**Website:** https://basahjeruk3k.com/
-
-## 📖 About
-
-**Title**
-
-> Basahjeruk - Tonton Melayu Drama Malay Kepala Bergetar
-
-**Description**
-
-Basahjeruk Tonton Dfm2u Malaysian Dramas Dan Malay Filem Full Episod Online. Myinfotaip Kepala Bergetar All Episod Terkini Telefilem.
+### 📖 Description
+**Basahjeruk** is your destination to watch **Malay Dramas**, **Malay Movies**, **Telefilem**, and the latest Malaysian entertainment online. Enjoy full episodes from **Tonton**, **DFM2U**, **Kepala Bergetar**, **Myinfotaip**, and many more. Stay updated with the newest Malaysian drama releases and full HD streaming.
 
 ---
 
-# 📂 Categories
+# 📱 Social Media & Community
 
-- 🎬 Malaysian Drama
-- 🎥 Malay Movies
-- 📺 TV Series
-- 🎞️ Telefilem
-- 📱 Online Streaming
-- 🌐 Entertainment
-- 🇲🇾 Malay Content
+🐙 GitHub → https://github.com/basahjeruk3k
 
----
+🎨 Behance → https://www.behance.net/sadiqkarim1
 
-# 🔗 Official Website
+📌 Pinterest → https://www.pinterest.com/basahjeruk3kcom/
 
-🌍 https://basahjeruk3k.com/
+🎤 TED → https://www.ted.com/profiles/51883788
 
----
+✍️ Medium → https://medium.com/@basahjeruk3k
 
-# 🌟 Social & Profile Links
+❓ Quora → https://www.quora.com/profile/Basahjeruk3k
 
-## 💻 Development
+👤 About.me → https://about.me/basahjeruk3k
 
-- 🐙 GitHub — https://github.com/basahjeruk3k
-- 🦊 GitLab — https://gitlab.com/basahjeruk3k
-- ⚡ Replit — https://replit.com/@basahjeruk3k
-- 🖊️ CodePen — https://codepen.io/Basahjeruk3k/pen/JoEapMg
-- 🏔️ Codeberg — https://codeberg.org/basahjeruk3k
-- 🐳 Docker Hub — https://hub.docker.com/u/basahjeruk3k
-- 🏆 TopCoder — https://profiles.topcoder.com/basahjeruk3k
-- 💻 LeetCode — https://leetcode.com/u/basahjeruk3k/
-- 🤗 Hugging Face — https://huggingface.co/basahjeruk3k
-- ✍️ Hashnode — https://hashnode.com/@basahjeruk3k
-- 📰 HackerNoon — https://hackernoon.com/u/basahjeruk3k
-- 📅 daily.dev — https://daily.dev/basahjeruk3k
+📚 Issuu → https://issuu.com/basahjeruk3k
 
----
+👽 Reddit → https://www.reddit.com/user/NewspaperMission2474/
 
-## 🎨 Creative
+🚀 Product Hunt → https://www.producthunt.com/@basahjeruk
 
-- 🎨 Behance — https://www.behance.net/sadiqkarim1
-- 📷 500px — https://500px.com/p/basahjeruk3k
-- 📸 Pexels — https://www.pexels.com/@basahjeruk-3k-2163213112/
-- 🖼️ Pixabay — https://pixabay.com/users/basahjeruk3k-56898444/
-- 🎭 Sketchfab — https://sketchfab.com/basahjeruk3k
-- 🎵 SoundCloud — https://soundcloud.com/basahjeruk3k
-- 🎶 Mixcloud — https://www.mixcloud.com/basahjeruk3k/
-- 🎼 BandLab — https://www.bandlab.com/basahjeruk3k
-- 🎙️ Podomatic — https://www.podomatic.com/podcasts/basahjeruk3kpodcast
+🦊 GitLab → https://gitlab.com/basahjeruk3k
 
----
+💬 Disqus → https://disqus.com/by/basahjeruk3k/about/
 
-## 📝 Publishing
+📑 SlideShare → https://www.slideshare.net/basahjeruk3k?tab=about
 
-- ✍️ Medium — https://medium.com/@basahjeruk3k
-- 📚 Goodreads — https://www.goodreads.com/user/show/202980895-basahjeruk-3k
-- 📖 Issuu — https://issuu.com/basahjeruk3k
-- 📄 SlideShare — https://www.slideshare.net/basahjeruk3k
-- 🎤 SpeakerDeck — https://speakerdeck.com/basahjeruk3k
-- 📘 Academia — https://independent.academia.edu/basahjeruk3k
-- 📑 AnyFlip — https://anyflip.com/homepage/okufo
-- 📕 Yumpu — https://www.yumpu.com/user/basahjeruk3k
+💻 Stack Overflow → https://stackoverflow.com/users/32960220/basahjeruk?tab=profile
+
+📝 Blogger → https://www.blogger.com/profile/09945501294204237180
+
+🗺️ Atlas Obscura → https://www.atlasobscura.com/users/23d7cd7f-79e9-4027-9430-66ad14dc5e81
+
+☕ Ko-fi → https://ko-fi.com/basahjeruk35337
+
+💭 IntenseDebate → https://www.intensedebate.com/people/basahjeruk3k
+
+📔 Dreamwidth → https://basahjerukk.dreamwidth.org/
+
+🔖 Diigo → https://www.diigo.com/user/basahjeruk3k
+
+🎥 Coub → https://coub.com/cf42881dc09d4206e936
+
+🎬 Letterboxd → https://letterboxd.com/basahjeruk3k/
+
+📣 Triberr → https://triberr.com/basahjeruk3k
+
+❌ X (Twitter) → https://x.com/basahjeruk3k
+
+🕸️ Wayback Machine → https://web.archive.org/save/https://basahjeruk3k.com/
 
 ---
 
-## 🌍 Social
+# 💻 Developer Profiles
 
-- ❌ X — https://x.com/basahjeruk3k
-- 📌 Pinterest — https://www.pinterest.com/basahjeruk3kcom/
-- 👽 Reddit — https://www.reddit.com/user/NewspaperMission2474/
-- ❓ Quora — https://www.quora.com/profile/Basahjeruk3k
-- 💬 Disqus — https://disqus.com/by/basahjeruk3k/about/
-- ☕ Ko-fi — https://ko-fi.com/basahjeruk35337
-- 🌳 Linktree — https://linktr.ee/basahjeruk3k
-- 🔗 Beacons — https://beacons.ai/basahjeruk3k
-- 🌐 Bio.site — https://bio.site/basahjeruk3k
-- 🚀 Solo.to — https://solo.to/basahjeruk3k
-- 🏕️ Campsite — https://campsite.bio/basahjeruk3k
-- 👤 About.me — https://about.me/basahjeruk3k
-- 📘 Facebook — https://www.facebook.com/profile.php?id=61592584619213
+⚡ Hashnode → https://hashnode.com/@basahjeruk3k
+
+🖊️ CodePen → https://codepen.io/Basahjeruk3k/pen/JoEapMg
+
+🧠 Replit → https://replit.com/@basahjeruk3k
+
+📷 500px → https://500px.com/p/basahjeruk3k?view=photos
+
+🇯🇵 Qiita → https://qiita.com/basahjeruk3k
+
+🐳 Docker Hub → https://hub.docker.com/u/basahjeruk3k
+
+🛠️ SourceForge → https://sourceforge.net/u/basahjeruk3k/profile
+
+🏔️ Codeberg → https://codeberg.org/basahjeruk3k
+
+🏆 TopCoder → https://profiles.topcoder.com/basahjeruk3k
+
+💡 LeetCode → https://leetcode.com/u/basahjeruk3k/
+
+📈 Crunchbase → https://www.crunchbase.com/person/basahjeruk-3k
+
+🤗 HuggingFace → https://huggingface.co/basahjeruk3k
+
+📰 HackerNoon → https://hackernoon.com/u/basahjeruk3k
+
+📅 daily.dev → https://daily.dev/basahjeruk3k
+
+🧩 Atlassian Community → https://community.atlassian.com/user/profile/690f4981-c302-445d-999e-2c6230455403
+
+📱 XDA Developers → https://xdaforums.com/m/basahjeruk3k.13441969/about
+
+🖼️ Sketchfab → https://sketchfab.com/basahjeruk3k
+
+🎤 SpeakerDeck → https://speakerdeck.com/basahjeruk3k
+
+📄 Yumpu → https://www.yumpu.com/user/basahjeruk3k
 
 ---
 
-## 📚 Community
+# 🌍 Personal Websites & Link Pages
 
-TED • StackOverflow • Product Hunt • Crunchbase • Letterboxd • Wakelet • Dreamwidth • LiveJournal • Pearltrees • TripAdvisor • Tripoto • Atlassian Community • XDA Forums • FreeBSD Forums • Siliconera Forums • SmartCustomer • GrowKudos • LingvoLive • DPreview • CreativeMornings • Inkitt • Qiita • Coub • Diigo • Triberr • Coolors • Groover
+🌐 Linktree → https://linktr.ee/basahjeruk3k
+
+🌐 Bio.site → https://bio.site/basahjeruk3k
+
+🌐 Solo.to → https://solo.to/basahjeruk3k
+
+🌐 Beacons → https://beacons.ai/basahjeruk3k
+
+🌐 Carrd → https://basahjeruk3k-official.carrd.co/
+
+🌐 Taplink → https://basahjeruk3kcom.taplink.site/
+
+🌐 Campsite → https://campsite.bio/basahjeruk3k
+
+🌐 Strikingly → https://independent-aloe-120xwxg.mystrikingly.com/
+
+🌐 Jimdo → https://basahjeruk-2.jimdosite.com/
+
+🌐 WordPress → https://basahjeruk3k.wordpress.com/2026/07/26/basahjeruk-3k/
 
 ---
 
-# ⭐ Support
+# 🎨 Creative Platforms
 
-If you enjoy this project, please give it a ⭐ on GitHub.
+📖 Goodreads → https://www.goodreads.com/user/show/202980895-basahjeruk-3k
+
+🎓 Academia → https://independent.academia.edu/basahjeruk3k
+
+🎵 SoundCloud → https://soundcloud.com/basahjeruk3k
+
+🎶 Mixcloud → https://www.mixcloud.com/basahjeruk3k/
+
+🎧 BandLab → https://www.bandlab.com/basahjeruk3k
+
+🎙️ Podomatic → https://www.podomatic.com/podcasts/basahjeruk3kpodcast
+
+🎼 Groover → https://groover.co/en/band/profile/309ca6.basahjeruk/
+
+📚 Pearltrees → https://www.pearltrees.com/basahjeruk3k
+
+🖼️ Pixabay → https://pixabay.com/users/basahjeruk3k-56898444/
+
+📸 Pexels → https://www.pexels.com/@basahjeruk-3k-2163213112/
+
+🎞️ AnyFlip → https://anyflip.com/homepage/okufo
+
+🎬 SlidesLive → https://slideslive.com/basahjeruk3k?tab=about
 
 ---
 
-# 📜 License
+# 🌐 More Profiles
 
-This project is for educational and informational purposes.
+📘 Facebook → https://www.facebook.com/profile.php?id=61592584619213
+
+🎮 MyAnimeList → https://myanimelist.net/profile/basahjeruk3k
+
+📚 Open Library → https://openlibrary.org/people/basahjeruk
+
+🛍️ Gumroad → https://basahjeruk.gumroad.com/
+
+✈️ TripAdvisor → https://www.tripadvisor.in/Profile/basahjeruk3k
+
+🌍 Tripoto → https://www.tripoto.com/trip/basahjeruk3k-6580a90e824d53bd
+
+🏔️ Komoot → https://www.komoot.com/user/6017772004806
+
+💼 Fairygodboss → https://fairygodboss.com/users/profile/EzQvs0mKP4/Basahjeruk3k
+
+🖥️ FreeBSD Forums → https://forums.freebsd.org/members/basahjeruk3k.86032/
+
+💬 Siliconera Forums → https://forums.siliconera.com/members/basahjeruk3k.54883/
+
+📢 SmartCustomer → https://www.smartcustomer.com/users/basahjeruk3k
+
+✍️ WriteUpCafe → https://writeupcafe.com/author/basahjeruk3k
+
+🎯 Fiverr → https://www.fiverr.com/sellers/basahjeruk3k/edit
+
+---
+
+⭐ **If you like this project, don't forget to give it a Star!**
+
+🌐 **Official Website:** https://basahjeruk3k.com/
